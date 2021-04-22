@@ -1,8 +1,9 @@
 {
-  "name": "@poppanator/disher-backend",
+  "name": "@poppa/disher-backend",
   "private": true,
   "version": "0.1.0",
   "description": "Disher receip database",
+  "repository": "https://github.com/poppa/disher-backend.git",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",

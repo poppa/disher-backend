@@ -70,6 +70,12 @@
     },
     "gravatar": {
       "type": "string"
+    },
+    "bio": {
+      "type": "text"
+    },
+    "fullname": {
+      "type": "string"
     }
   }
 }
